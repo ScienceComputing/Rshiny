@@ -3,7 +3,7 @@ This repository presents my past R shiny applications developed for research and
 
 **[Examine Selection upon Substitutions in Mitochondrial Genomics](https://anniliu.shinyapps.io/SelectMito/)**
 
-<img src="image/SelectMito.png" width="100%" />
+<img src="image/SelectMito_HomePage.png" width="100%" />
 
 
 **[Smart Pill to Trace Gastrointestinal Time](https://anniliu.shinyapps.io/smartpill/)**
