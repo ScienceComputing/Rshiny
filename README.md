@@ -11,6 +11,7 @@ This repository presents my past R shiny applications developed for research and
 <hr> 
 
 
+<br>
 **[Smart Pill to Trace Gastrointestinal Time](https://anniliu.shinyapps.io/smartpill/)**
 
 {SmartPill} helps you to explore the relationship between gastrointestinal time and body mass index between critically ill trauma patients and healthy volunteers and to view the underlying dataset.
@@ -22,7 +23,7 @@ This repository presents my past R shiny applications developed for research and
 
 **[Empower Students in Mathematics](https://anniliu.shinyapps.io/math/)**
 
-{EmpowerMath} helps you to understand what factors drive the divergent mathematics scores among students and asks viewers to build their own understandings of basic mathematical concepts by doing mathematics with the App.
+{EmpowerMath} helps you to understand what factors drive the divergent mathematics scores among students and to build your own understanding of basic mathematical concepts by doing mathematics with the App.
 
 
 <img src="image/EmpowerMath_HomePage.png" width="100%" />
