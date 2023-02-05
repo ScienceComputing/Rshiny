@@ -8,10 +8,9 @@ This repository presents my past R shiny applications developed for research and
 
 <img src="image/SelectMito_HomePage.png" width="100%" />
 
+<hr>
 
 
-
-<br>
 **[Smart Pill to Trace Gastrointestinal Time](https://anniliu.shinyapps.io/smartpill/)**
 
 {SmartPill} helps you to explore the relationship between gastrointestinal time and body mass index between critically ill trauma patients and healthy volunteers and to view the underlying dataset.
@@ -28,6 +27,5 @@ This repository presents my past R shiny applications developed for research and
 
 <img src="image/EmpowerMath_HomePage.png" width="100%" />
 
-<hr>
 
 
