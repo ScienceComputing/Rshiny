@@ -5,6 +5,8 @@ This repository presents my past R shiny applications developed for research and
 
 <img src="image/SelectMito_HomePage.png" width="100%" />
 
+<hr>
+
 
 **[Smart Pill to Trace Gastrointestinal Time](https://anniliu.shinyapps.io/smartpill/)**
 
